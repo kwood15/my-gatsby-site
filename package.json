@@ -16,7 +16,9 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@percy/agent": "^0.20.13",
     "gatsby": "^3.6.2",
+    "gatsby-plugin-percy": "^0.1.4",
     "gatsby-plugin-react-helmet": "^4.7.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
