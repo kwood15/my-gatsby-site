@@ -11,9 +11,7 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "clean": "gatsby clean"
   },
   "dependencies": {
     "@percy/agent": "^0.20.13",
